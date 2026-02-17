@@ -1,0 +1,5 @@
+{
+  "name": "MoodShift",
+  "description": "A lightweight decision-support app for student gamers to instantly choose a game based on their current mood and available time.",
+  "requestFramePermissions": []
+}
